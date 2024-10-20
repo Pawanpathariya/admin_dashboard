@@ -62,69 +62,6 @@
       "city": "Bhopal",
       "course": "MERN",
       "fees": 36500
-    },
-    {
-      "id": "11",
-      "name": "Ramesh",
-      "city": "Bhopal",
-      "course": "MERN",
-      "fees": "34500"
-    },
-    {
-      "id": "12",
-      "name": "Naman",
-      "city": "Bhopal",
-      "course": "Java",
-      "fees": 40500
-    },
-    {
-      "id": "13",
-      "name": "Ajay",
-      "city": "Jabalpur",
-      "course": "Python",
-      "fees": 38500
-    },
-    {
-      "id": "14",
-      "name": "Aakash",
-      "city": "Sehore",
-      "course": "MERN",
-      "fees": "35500"
-    },
-    {
-      "id": "15",
-      "name": "Aakash",
-      "city": "Bhopal",
-      "course": "Java",
-      "fees": 38500
-    },
-    {
-      "id": "16",
-      "name": "Ashish",
-      "city": "Indore",
-      "course": "DA",
-      "fees": 44500
-    },
-    {
-      "id": "17",
-      "name": "Anubhav",
-      "city": "Bhopal",
-      "course": "MERN",
-      "fees": 45000
-    },
-    {
-      "id": "18",
-      "name": "Vikash",
-      "city": "Bhopal",
-      "course": "Python",
-      "fees": 34500
-    },
-    {
-      "id": "19",
-      "name": "Shivendra",
-      "city": "Bhopal",
-      "course": "Java",
-      "fees": 30500
     }
   ]
 }
