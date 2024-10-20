@@ -610,3 +610,59 @@ border-right: 1px solid ;
 #showsea table #last{
     border-right: none;
 }
+/* change pass */
+
+#pass{
+    text-align: end;
+    position: relative;
+    width: 520px;
+    margin: 40px;
+    left: 20%;
+    padding: 20px;
+    background-color: #9755d9;
+    border-radius: 20px;
+    color: white;
+    box-shadow: 5px 3px 2px blue;
+    p{
+        margin-right: 40px;
+        font-size: 20px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+
+        input{
+            margin-left: 10px;
+            margin-top: 10px;
+            height: 40px;
+            border-radius:20px ;
+            border: none;
+            color: #9755d9;
+            text-align: center;
+            box-shadow:5px 3px 3px 2px blue ;
+            
+        &:hover{
+            color: #fff;
+            background-color: #36d4cf;
+            box-shadow: 5px 3px 2px blue;
+        }
+
+        }
+    }
+
+    button{
+        margin-top: 30px;
+        width: 200px;
+        height: 40px;
+        margin-right: 30%;
+        border-radius:20px ;
+        border: none;
+        color: #9755d9;
+        text-align: center;
+        box-shadow:5px 3px 3px 2px blue ;
+
+        &:hover{
+            color: #fff;
+            background-color: #36d4cf;
+            box-shadow: 5px 3px 2px blue;
+        }
+    }
+}
