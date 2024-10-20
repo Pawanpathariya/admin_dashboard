@@ -52,16 +52,9 @@
     {
       "id": "9",
       "name": "Virendra",
-      "city": "Gwalior",
-      "course": "MERN",
-      "fees": "35500"
-    },
-    {
-      "id": "10",
-      "name": "Sumit",
       "city": "Bhopal",
       "course": "MERN",
-      "fees": 36500
+      "fees": "35500"
     }
   ]
 }
