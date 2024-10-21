@@ -55,6 +55,13 @@
       "city": "Bhopal",
       "course": "MERN",
       "fees": "35500"
+    },
+    {
+      "id": "10",
+      "name": "Sumit",
+      "course": "MERN",
+      "fees": "39000",
+      "city": "bhopal"
     }
   ]
 }
